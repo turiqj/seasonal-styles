@@ -19,14 +19,14 @@ $("document").ready(function(){
             $("#logo").attr("src","images/fall.gif");
             $("#wear").attr("src", "images/fall-wear.jpg");
             $("html").css("background-color","#A81124");
-            $("#header").text("It is a rainy spring day!");
+            $("#header").text("Fall is here! Time to get spooky!");
             break;
 
                 case "summer":
                 $("#logo").attr("src","images/summer.gif");
                 $("#wear").attr("src", "images/summer-wear.jpg");
                 $("html").css("background-color","#EBA52B");
-                $("#header").text("It is a rainy spring day!");
+                $("#header").text("It's a nice day to hit the beach!");
                 break;
 
 
@@ -35,7 +35,7 @@ $("document").ready(function(){
             $("#logo").attr("src","images/winter.gif");
             $("#wear").attr("src", "images/winter-wear.jpg");
             $("html").css("background-color","#005393");
-            $("#header").text("It is a rainy spring day!");
+            $("#header").text("Wrap up! It's a chilly day!");
              break;
 
 
